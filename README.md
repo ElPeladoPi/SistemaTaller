@@ -10,6 +10,7 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java** para adm
 * **Facturación:** Generación de órdenes de trabajo y facturas detalladas (`ItemFactura`).
 * **Persistencia de Datos:** Conexión robusta a base de datos relacional.
 
+
 ## 🏗️ Arquitectura del Proyecto
 
 El software sigue una arquitectura en capas para asegurar la escalabilidad y el mantenimiento, implementando el patrón de diseño **DAO (Data Access Object)** para desacoplar la lógica de negocio de la persistencia de datos.
