@@ -2,7 +2,7 @@ package com.taller.modelo;
 
 public class Repuesto {
     private int id;
-    private String codigo; // NUEVO CAMPO
+    private String codigo;
     private String descripcion;
     private String marca;
     private double precio;
